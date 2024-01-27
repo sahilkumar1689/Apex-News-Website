@@ -74,5 +74,5 @@ sbtn.addEventListener("click",(e)=>{
 
 
 // We simply call the function:
-getrequest()
+getrequest();
 })
